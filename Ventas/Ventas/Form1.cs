@@ -19,7 +19,7 @@ namespace Ventas
 
         private void button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hola Mundo!");
+            MessageBox.Show("Hola Mundo, Recuerda: ¡Todos somos ignorantes, pero no todos ignoramos lo mismo!");
         }
     }
 }
